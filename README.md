@@ -16,6 +16,7 @@
 <br />
 <br />
 
+*Watch my contribution graph get eaten by the snake* 🐍
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -28,20 +29,19 @@
 General Sir John Kotelawala Defence University Sri Lanka
 </a>
 <br />
-<br />
 
 👨‍💻 I’m currently working on web development technologies like ReactJS , MongoDB , ExpressJS, NodeJS etc.
 <br />
-<br />
+
 
 
 🌱 I'm Interested in Full Stack Web Development
 <br />
-<br />
+
 
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 <br />
-<br />
+
 
 📫 Reach me via chamikara98@gmail.com
 <br />

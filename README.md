@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h2> Hi There, I'm Chamikara Mendis!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, I'm Chamikara!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+of+Information+Technology;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>

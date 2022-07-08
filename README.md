@@ -4,6 +4,11 @@
 
 <div align="center">
 <h2> Hi There, I'm Chamikara Mendis!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+of+Information+Technology;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
+</p>
+  
 <a href="https://www.linkedin.com/in/chamikara-mendis/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>

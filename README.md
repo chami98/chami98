@@ -9,22 +9,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+of+Information+Technology;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
   
-<a href="https://www.linkedin.com/in/chamikara-mendis/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/chamikara98" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/chamikara_98/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.facebook.com/Chamikara.mendiz" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<br />
-<br />
 
 *Watch my contribution graph get eaten by the snake* 🐍
 <div align="center">
@@ -85,6 +69,7 @@ General Sir John Kotelawala Defence University Sri Lanka
 <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
 <br />
 <br />
+
 <a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
@@ -97,7 +82,32 @@ General Sir John Kotelawala Defence University Sri Lanka
 <br />
 <br />
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+
+
+<br />
+
+## Reach Me
+<br />
+
+<a href="https://www.linkedin.com/in/chamikara-mendis/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/chamikara98" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/chamikara_98/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/Chamikara.mendiz" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>
+
+
 <br />
 <br />
+
+
 

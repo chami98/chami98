@@ -24,12 +24,12 @@ General Sir John Kotelawala Defence University Sri Lanka
 </a>
 <br />
 
-👨‍💻 I’m currently working on web development technologies like ReactJS , MongoDB , ExpressJS, NodeJS etc.
+👨‍💻 I’m currently working on web development technologies like ReactJS , React Native , MongoDB , ExpressJS, NodeJS etc.
 <br />
 
 
 
-🌱 I'm Interested in Full Stack Web Development
+🌱 I'm Interested in Full Stack Development
 <br />
 
 

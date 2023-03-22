@@ -81,7 +81,7 @@ General Sir John Kotelawala Defence University Sri Lanka
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb"></a>
 <br />
 <br />
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://cdn.cdnlogo.com/logos/e/23/express.svg" alt="express"></a>
+<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="80px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="express"></a>
 
 
 <br />

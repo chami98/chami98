@@ -29,7 +29,7 @@ General Sir John Kotelawala Defence University Sri Lanka
 
 
 
-🌱 I'm Interested in Full Stack Development
+🌱 I'm Interested in Full Stack Development.
 <br />
 
 

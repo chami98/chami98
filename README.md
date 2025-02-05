@@ -19,7 +19,7 @@
 
 <br />
 
-👨‍🎓 An Information Technology Graduate from <a href="https://www.kdu.ac.lk/" target="_blank">
+An Information Technology Graduate from <a href="https://www.kdu.ac.lk/" target="_blank">
 General Sir John Kotelawala Defence University Sri Lanka
 </a>
 <br />
